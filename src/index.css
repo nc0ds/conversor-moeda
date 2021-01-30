@@ -9,4 +9,5 @@ html, body {
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
+  background-color: #F1F1F1;
 }
