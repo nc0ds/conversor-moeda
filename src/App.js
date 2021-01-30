@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from 'react'
-import './App.css';
 import { MainContainer, ColBox, Title, Paragraph, Select, TextInput, Submit } from './components/styled'
 
 function App() {
